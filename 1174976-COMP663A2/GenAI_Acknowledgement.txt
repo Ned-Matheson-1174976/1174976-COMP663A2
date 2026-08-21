@@ -1,0 +1,19 @@
+Ms Copilot
+
+General Debugging of error messages.
+
+Figure out code to compensate for 0 and 360 degrees being the same.
+
+df["Aspect_sin"] = np.sin(np.radians(df["Aspect"]))
+
+df["Aspect_cos"] = np.cos(np.radians(df["Aspect"]))
+
+
+
+Help tidy up the pipelines and cross-validation so they were consistent with each other.
+
+Work on standardising the data output from the models.
+
+
+Working on the Markup for the jyptr
+
