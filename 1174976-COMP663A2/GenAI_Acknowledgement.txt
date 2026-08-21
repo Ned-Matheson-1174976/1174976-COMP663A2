@@ -14,6 +14,6 @@ Help tidy up the pipelines and cross-validation so they were consistent with eac
 
 Work on standardising the data output from the models.
 
-
+Put together the README.md
 Working on the Markup for the jyptr
 
