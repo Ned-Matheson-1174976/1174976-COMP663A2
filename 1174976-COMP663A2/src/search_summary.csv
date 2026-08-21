@@ -1,0 +1,4 @@
+Method,Configurations Evaluated,Search Time (s),Best Architecture
+Random Search,10,3393.3128402233124,"2 Layers (24, 24)"
+Bayesian Optimisation,20,3176.6440410614014,"2 Layers (120, 32)"
+NAS,20,402.28846645355225,"2 Layers, 152 Units"
